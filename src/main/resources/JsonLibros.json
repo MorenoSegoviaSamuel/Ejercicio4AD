@@ -1,0 +1,19 @@
+[ {
+  "isbn" : "12345B",
+  "titulo" : "Pepito Grillo",
+  "autor" : "Pepe",
+  "numeroPag" : 45,
+  "fechaPublica" : "20-06-2002"
+}, {
+  "isbn" : "12345C",
+  "titulo" : "El mago de Oz",
+  "autor" : "Pepe",
+  "numeroPag" : 500,
+  "fechaPublica" : "30-04-1950"
+}, {
+  "isbn" : "12345D",
+  "titulo" : "Wigetta: El origen",
+  "autor" : "Willyrex",
+  "numeroPag" : 120,
+  "fechaPublica" : "01-12-2022"
+} ]
